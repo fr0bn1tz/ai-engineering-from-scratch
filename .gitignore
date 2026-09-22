@@ -54,6 +54,11 @@ mlruns/
 *.h5
 .gstack/
 
+# Local agent-skill installation state. Learning progress itself is committed
+# so it can be resumed from another machine.
+.agents/
+skills-lock.json
+
 .link-cache.json
 .claude/
 
