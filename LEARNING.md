@@ -50,6 +50,7 @@
 | 2026-04-15 | 00/10 Terminal & Shell      | 5/5 | tmux + piping + SSH + aliases |
 | 2026-04-15 | 00/11 Linux for AI          | 5/5 | apt + permissions + systemd + gotchas |
 | 2026-09-11 | 00/12 Debugging & Profiling | 3/3 | Сначала измерять узкое место; проверять форму тензоров |
+| 2026-10-04 | 01/01 Linear Algebra Intuition | 3/3 | Разобрали __init__ и self через обычную функцию; повторить проекцию и нормализацию; понял низкоразмерное подпространство LoRA |
 
 ## Review queue
 <empty for now — /learn adds lessons the quizzes flag>
